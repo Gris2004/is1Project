@@ -1,0 +1,31 @@
+{
+  "name": "is1project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gris2004/is1Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gris2004/is1Project/issues"
+  },
+  "homepage": "https://github.com/Gris2004/is1Project#readme",
+  "devDependencies": {
+    "dotenv": "^17.2.3",
+    "eslint": "^9.39.2",
+    "nodemon": "^3.1.11"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^5.2.1",
+    "path": "^0.12.7",
+    "sqlite3": "^5.0.2"
+  }
+}
