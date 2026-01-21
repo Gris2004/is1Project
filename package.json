@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon API/app.mjs"
   },
   "repository": {
     "type": "git",
@@ -26,6 +27,6 @@
     "colors": "^1.4.0",
     "express": "^5.2.1",
     "path": "^0.12.7",
-    "sqlite3": "^5.0.2"
+    "sqlite3": "^5.1.7"
   }
 }
